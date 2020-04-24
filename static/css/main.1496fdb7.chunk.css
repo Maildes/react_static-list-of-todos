@@ -1,0 +1,2 @@
+.header{text-align:center}.todo__list{display:grid;grid-template-columns:repeat(5,200px);grid-gap:30px;justify-content:center}.todo{height:150px;padding:0 15px;border:1px solid red;border-radius:20px;background-color:khaki;cursor:pointer;transition:.3s}.todo:hover{-webkit-transform:scale(1.1);transform:scale(1.1);box-shadow:0 10px 30px rgba(0,0,0,.4)}.todo__completed{color:#000;border:1px solid green;background-color:#8ccb5e}
+/*# sourceMappingURL=main.1496fdb7.chunk.css.map */
